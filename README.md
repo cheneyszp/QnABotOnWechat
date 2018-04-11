@@ -1,6 +1,6 @@
 # QnABotOnWechat
-A sample to integrate with QnA Maker and Wechat public account 10分钟搭建微信公众账号FAQ机器人
-
+A sample to integrate with QnA Maker and Wechat public account 
+10分钟搭建微信公众账号FAQ机器人
 
 ## QnA Maker是什么？
 
@@ -16,7 +16,7 @@ QnA Maker一个定制化的免费问答机器人服务，用户可以提供一�
 ## 创建一个QnA Maker服务
 
 1. 新建服务
-2. 填写一个常见问题地址（比如：https://www.azure.cn/support/faq/），或者是自己上传文件，或者自己编
+2. 填写一个常见问题地址（比如：https://www.azure.cn/support/faq/ ），或者是自己上传文件，或者自己编
 3. 然后点击Publish，记下knowledge base id和key
 
 ## 创建API
