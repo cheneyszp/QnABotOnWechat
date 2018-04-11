@@ -1,0 +1,11 @@
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\bin\Debug\netcoreapp2.0\QnAMakerOnWechat.deps.json
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\bin\Debug\netcoreapp2.0\QnAMakerOnWechat.runtimeconfig.json
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\bin\Debug\netcoreapp2.0\QnAMakerOnWechat.runtimeconfig.dev.json
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\bin\Debug\netcoreapp2.0\QnAMakerOnWechat.dll
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\obj\Debug\netcoreapp2.0\QnAMakerOnWechat.csprojResolveAssemblyReference.cache
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\obj\Debug\netcoreapp2.0\QnAMakerOnWechat.csproj.CoreCompileInputs.cache
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\obj\Debug\netcoreapp2.0\QnAMakerOnWechat.AssemblyInfoInputs.cache
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\obj\Debug\netcoreapp2.0\QnAMakerOnWechat.AssemblyInfo.cs
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\bin\Debug\netcoreapp2.0\QnAMakerOnWechat.pdb
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\obj\Debug\netcoreapp2.0\QnAMakerOnWechat.dll
+c:\projects\QnAMakerOnWechat\QnAMakerOnWechat\obj\Debug\netcoreapp2.0\QnAMakerOnWechat.pdb
