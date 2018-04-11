@@ -31,9 +31,10 @@ QnA Maker一个定制化的免费问答机器人服务，用户可以提供一�
 贴上本工程的代码，点击发布到Azure Web Service。
 记下你的发布地址。类似：YOUR_WEB_APP_NAME.azurewebsites.net
 
-## 在微信公众平台注册账号，创建一个个人的订阅号就可以了。
+## 在微信公众平台注册账号
 
-1. 服务器地址，填写你发布到Azure Web service的地址（类似：YOUR_WEB_APP_NAME.azurewebsites.net/api/values）
-2. 填写Token, 可以随便写，但是需要跟代码中保持一致。
+1. 创建一个个人订阅账号
+2. 点开开发里头的基本配置，配置服务器地址，填写你发布到Azure Web service的地址（类似：YOUR_WEB_APP_NAME.azurewebsites.net/api/values）
+3. 填写Token, 可以随便写，但是需要跟代码中保持一致。
 
 验证通过之后就大功告成啦！ 关注你自己的公众号试一下吧。
