@@ -1,5 +1,6 @@
 # QnABotOnWechat
 A sample to integrate with QnA Maker and Wechat public account 
+
 10分钟搭建微信公众账号FAQ机器人
 
 ## QnA Maker是什么？
@@ -9,7 +10,7 @@ QnA Maker一个定制化的免费问答机器人服务，用户可以提供一�
 ## 前期准备
 
 1. 注册一个微信公众号，个人订阅即可
-2. 下载VS 2017, 安装ASP.NET 模块
+2. 下载Visual Studio 2017 (15.3+), 安装ASP.NET 模块
 3. 注册一个Azure的账号
 4. 注册QnA Maker
 
@@ -22,7 +23,7 @@ QnA Maker一个定制化的免费问答机器人服务，用户可以提供一�
 ## 创建API
 
 创建.net core web api, 默认的Value控制器就可以了。
-可以下载本项目工程，也可以自己尝试创建。本代码基于.net core 2.0，所以需要VS 2017
+可以下载本项目工程，也可以自己尝试创建。本代码基于.net core 2.0，请将VS 2017升级到最新版本（15.3+）
 
 主要完成两个内容：
 1. GET api完成对微信服务器的认证   GET /api/values
